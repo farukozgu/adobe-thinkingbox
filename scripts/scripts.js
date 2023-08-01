@@ -137,3 +137,8 @@ loadPage();
 
 
 
+document.head.innerHTML = document.head.innerHTML + '<script src="js/scrollmagic/uncompressed/ScrollMagic.js"></script>'
+
+
+
+
