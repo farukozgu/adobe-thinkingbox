@@ -251,6 +251,6 @@ main .section.highlight {
 }
 
 
-.section:has(.banner) {
+.banner-section {
   background-color: #333333;
 }
