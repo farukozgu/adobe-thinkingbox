@@ -38,3 +38,8 @@
 .show img {
   width: unset !important;
 }
+
+
+.see-button {
+  text-align: center;
+}
