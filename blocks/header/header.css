@@ -292,3 +292,7 @@ header nav .nav-tools {
   width: 100%;
   /* //transition: width .3s; */
 }
+
+body {
+  text-decoration: none;
+}
