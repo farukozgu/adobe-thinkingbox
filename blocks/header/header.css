@@ -56,6 +56,11 @@ header nav p {
 header nav a:any-link {
   color: currentcolor;
   font-weight: bold;
+  text-decoration: none;
+}
+
+header nav a:any-link:hover{
+  text-decoration: none;
 }
 
 /* hamburger */
