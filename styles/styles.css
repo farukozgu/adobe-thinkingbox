@@ -162,8 +162,10 @@ a.button:any-link, button {
 }
 
 a.button:hover, a.button:focus, button:hover, button:focus  {
-  background-color: var(--link-hover-color);
+  background-color: #fff;
   cursor: pointer;
+  color: #000;
+  border: 2px solid #000;
 }
 
 button:disabled, button:disabled:hover {
