@@ -33,6 +33,7 @@
 }
 
 .blog img,
-.riot img {
+.riot img,
+.life img {
   width: unset !important;
 }
