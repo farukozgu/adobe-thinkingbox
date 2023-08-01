@@ -276,3 +276,19 @@ header nav .nav-sections ul > li > ul > li {
 header nav .nav-tools {
   grid-area: tools;
 }
+
+
+.header nav a:any-link::after {
+  content: '';
+  display: block;
+  width: 0;
+  height: 2px;
+  background: #000;
+  transition: width .3s;
+}
+
+
+.header nav a:any-link::after {
+  width: 100%;
+  /* //transition: width .3s; */
+}
