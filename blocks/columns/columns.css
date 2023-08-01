@@ -32,6 +32,7 @@
   }
 }
 
-.blog img {
+.blog img,
+.riot img {
   width: unset !important;
 }
