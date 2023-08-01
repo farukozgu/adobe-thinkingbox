@@ -249,3 +249,8 @@ main .section {
 main .section.highlight {
   background-color: var(--highlight-background-color);
 }
+
+
+.section:has(.banner) {
+  background-color: #333333;
+}
