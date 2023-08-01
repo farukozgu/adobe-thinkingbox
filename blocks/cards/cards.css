@@ -34,6 +34,7 @@
   opacity: 60%;
   max-width: 150px;
   cursor: pointer;
+  transition: .3s;
 }
 
 .cards > ul > li img:hover {
