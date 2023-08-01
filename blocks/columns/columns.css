@@ -31,3 +31,7 @@
     order: unset;
   }
 }
+
+.blog img {
+  width: unset !important;
+}
