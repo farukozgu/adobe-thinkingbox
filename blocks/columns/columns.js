@@ -18,4 +18,3 @@ export default function decorate(block) {
 }
 
 
-ScrollReveal().reveal('.blog');
