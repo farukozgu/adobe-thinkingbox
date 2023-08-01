@@ -111,3 +111,11 @@ export default function decorate(block) {
     observer.observe(block);
   }
 }
+
+
+
+
+
+document.head.innerHTML = document.head.innerHTML + '<script src="https://unpkg.com/scrollreveal"></script>'
+ScrollReveal().reveal('.video-section');
+

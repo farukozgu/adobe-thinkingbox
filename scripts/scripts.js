@@ -137,8 +137,3 @@ loadPage();
 
 
 
-document.head.innerHTML = document.head.innerHTML + '<script src="https://unpkg.com/scrollreveal"></script>'
-ScrollReveal().reveal('.brand-section');
-
-
-
