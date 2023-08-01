@@ -31,7 +31,7 @@
   width: 100%;
   /* aspect-ratio: 4 / 3; */
   object-fit: cover;
-  opacity: 70%;
+  opacity: 60%;
   max-width: 150px;
   cursor: pointer;
 }
