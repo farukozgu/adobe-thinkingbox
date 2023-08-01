@@ -140,5 +140,5 @@ loadPage();
 document.head.innerHTML = document.head.innerHTML + '<script src="https://unpkg.com/scrollreveal"></script>'
 document.head.innerHTML = document.head.innerHTML + '<script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>'
 
-ScrollReveal().reveal('.blog');
+
 
