@@ -254,3 +254,7 @@ main .section.highlight {
 .banner-section {
   background-color: #333333;
 }
+
+.banner p {
+  color: #fff;
+}
