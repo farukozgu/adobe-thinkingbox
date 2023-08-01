@@ -288,7 +288,7 @@ header nav .nav-tools {
 }
 
 
-.header nav a:any-link::after {
+.header nav a:any-link:hover::after {
   width: 100%;
   /* //transition: width .3s; */
 }
