@@ -137,7 +137,7 @@ loadPage();
 // Banner classes
 document.querySelector('.banner > div').classList.add('banner-div');
 document.querySelector('.banner-div > div').classList.add('banner-left');
-document.querySelector('.banner-div p:nth-of-type(2)').classList.add('banner-text');
+
 
 
 
